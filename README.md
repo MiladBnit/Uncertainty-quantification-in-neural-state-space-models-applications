@@ -11,7 +11,6 @@ The python requires the following packages:
 - scipy      (main package)
 - matplotlib (required for ploting)
 - pickle     (required for loading data reading/writing)
-- pandas     (required for loading data reading/writing)
 ### Instructions
 1)  SI_ExperimentDesign.ipynb: execute to obtain the results for the experiment design case study.
 2)  SI_ExperimentDesign_MonteCarloRun.ipynb: execute to obtain the Monte-Carlo results for the experiment design case study.
